@@ -1,16 +1,20 @@
 # imc_app
 
-A new Flutter project.
+Aplicação em Flutter para calcular o seu IMC
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone este repositório para o seu ambiente local.
+2. Abra o projeto no Flutter.
+3. Execute o aplicativo em um emulador ou dispositivo físico.
 
-A few resources to get you started if this is your first Flutter project:
+Certifique-se de ter o Flutter instalado em seu sistema. Para obter informações sobre como instalar o Flutter, consulte a [documentação oficial do Flutter](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contribuições
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull requests para melhorias ou correções.
+
+## Autor
+
+João Victor B Miraya <br/>
+joaomiraya01@gmail.com
